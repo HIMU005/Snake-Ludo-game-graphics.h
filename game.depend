@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1690782965 source:d:\himu\c++\game\main.cpp
+	<graphics.h>
+	<time.h>
+	<vector>
+	"snake.h"
+	"player.h"
+	"ladder.h"
+	<iostream>
+	<fstream>
+	<chrono>
+	<thread>
+
+1689077531 source:d:\himu\c++\game\snake.cpp
+	"snake.h"
+	"ladder.h"
+	"ladder.h"
+	<graphics.h>
+
+1680411695 d:\himu\c++\game\snake.h
+	"snake.h"
+	"ladder.h"
+	"ladder.h"
+
+1680416388 d:\himu\c++\game\player.h
+	"snake.h"
+	"ladder.h"
+	"player.h"
+
+1680416444 source:d:\himu\c++\game\player.cpp
+	"snake.h"
+	"ladder.h"
+	"ladder.h"
+	<graphics.h>
+	<iostream>
+
+1681966516 source:d:\himu\c++\game\ladder.cpp
+	"snake.h"
+	"ladder.h"
+	"ladder.h"
+	<graphics.h>
+
+1680411713 d:\himu\c++\game\ladder.h
+	"snake.h"
+	"ladder.h"
+	"player.h"
+
+1680775502 source:d:\himu\c++\game\move.cpp
+	"move.h"
+
+1680770828 d:\himu\c++\game\move.h
+
